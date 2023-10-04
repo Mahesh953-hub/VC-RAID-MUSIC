@@ -62,7 +62,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
     if query.data=="help":
         buttons = [
             [
-                InlineKeyboardButton("👮 ʙᴏᴛ ʟɪsᴛ", url="https://t.me/DhimanBots"),
+                InlineKeyboardButton("👮 ʙᴏᴛ ʟɪsᴛ", url="https://t.me/GOVIND_USERBOT_SPPORT"),
                 InlineKeyboardButton("🗨️ Uꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -70,7 +70,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/Dhimxn"),
+                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/GOVIND_OFfICIAL_MP0"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),
@@ -98,7 +98,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton(" Cʜᴀɴɴᴇʟ", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/DDSRVR"),
+                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/GOVIND_OFfICIAL_MP0"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -195,7 +195,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton(" ᴜᴘᴅᴀᴛᴇs", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/DDSRVR"),
+                InlineKeyboardButton("🤖 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ", url="https://t.me/GOVIND_OFfICIAL_MP0"),
             ],
             [
                 InlineKeyboardButton("🤔 Hᴇʟᴘ & Cᴏᴍᴍᴀɴᴅꜱ", callback_data="help"),
@@ -210,7 +210,7 @@ async def help(client: Client, message: Message):
     self.username = get_me.username
     buttons = [
             [
-                InlineKeyboardButton("👮 ʙᴏᴛ ʟɪsᴛ", url="https://t.me/DhimanBots"),
+                InlineKeyboardButton("👮 ʙᴏᴛ ʟɪsᴛ", url="https://t.me/GOVIND_USERBOT_UPDATE"),
                 InlineKeyboardButton("🗨️ Uꜱᴇʀꜱ", callback_data="users"),
             ],
             [
@@ -218,7 +218,7 @@ async def help(client: Client, message: Message):
                 InlineKeyboardButton("🗨️ Sᴘᴀᴍ", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/Dhimxn"),
+                InlineKeyboardButton("🤖 ᴏᴡɴᴇʀ", url="t.me/GOVIND_OFfICIAL_MP0"),
             ],
             [
                 InlineKeyboardButton("🔙 Bᴀᴄᴋ", callback_data="home"),

@@ -28,10 +28,10 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in Deadly:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -51,10 +51,10 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in DHIMANSPAM:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -102,10 +102,10 @@ async def spam(e):
             a = await e.client.get_entity(user)
             g = a.id
             if int(g) in DHIMANSPAM :
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ GOVIND ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -125,10 +125,10 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in DHIMANSPAM:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_USERBOT_SPPORT ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -179,7 +179,7 @@ async def spam(e):
                 text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -199,10 +199,10 @@ async def spam(e):
             b = await e.client.get_entity(a.sender_id)
             g = b.id
             if int(g) in DHIMANSPAM:
-                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ"
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(g) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -251,10 +251,10 @@ async def _(e):
             user_idd = a.id
             user_id = int(user_idd)
             if int(user_id) in Deadly:
-                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ."
+                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."            
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."            
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ."
@@ -272,10 +272,10 @@ async def _(e):
             user_idd = umser.id
             user_id = int(user_idd)
             if int(user_id) in DHIMANSPAM:
-                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ."
+                text = f" ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_USERBOT_SPPORT ᴏᴡɴᴇʀ."
                 await e.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) == OWNER_ID:
-                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
+                text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ Govind ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
                 await event.reply(text, parse_mode=None, link_preview=None )
             elif int(user_id) in SUDO_USERS:
                 text = f"ᴛʜɪs ɢᴜʏ ɪs ᴀ sᴜᴅᴏ ᴜsᴇʀ.."
@@ -337,7 +337,7 @@ async def _(event):
              a = await event.client.get_entity(user)
              e = a.id
              if int(e) in DHIMANSPAM:
-                    text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                    text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_USERBOT_SPPORT ᴏᴡɴᴇʀ"
                     await event.reply(text, parse_mode=None, link_preview=None )
              elif int(e) == OWNER_ID:
                 text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."
@@ -361,7 +361,7 @@ async def _(event):
                b = await event.client.get_entity(a.sender_id)
                e = b.id
                if int(e) in DHIMANSPAM:
-                       text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @DhimanBots ᴏᴡɴᴇʀ"
+                       text = f"ɪ ᴄᴀɴ'ᴛ ʀᴀɪᴅ ᴏɴ @GOVIND_OFFICIAL_MP0 ᴏᴡɴᴇʀ"
                        await event.reply(text, parse_mode=None, link_preview=None )
                elif int(e) == OWNER_ID:
                        text = f"ʙᴇʜɴ ᴋᴇ ʟᴏᴅᴇ ᴀᴘɴᴇ ʙᴀᴀᴘ ᴅʜɪᴍᴀɴ ᴘᴇ ʜɪ ʀᴀɪᴅ ʟɢᴀʏᴇɢᴀ ( ᴊɪs ᴛʜᴀᴀʟɪ ᴍᴇ ᴋʜᴀʏᴀ ᴜsɪ ᴍᴇ ᴄʜʜᴇᴀᴅ ) sᴇᴅ <3."

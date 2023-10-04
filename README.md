@@ -110,7 +110,7 @@
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
-<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/TEAM-DHIMAN/MUSIC-VC-RAID"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
+<p align="center"><a href="https://cloud.okteto.com/deploy?repository=https://github.com/Mahesh953-hub/MUSIC-VC-RAID"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 
 ## Workflows hosting
@@ -122,7 +122,7 @@
 ## ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 🚄
 ꜰᴏʀ ᴅᴇᴘʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ ᴍᴀᴋᴇ [Necessary Variables Here](https://github.com/TEAM-DHIMAN/MUSIC-VC-RAID), ᴜ ʜᴀᴠᴇ ᴛᴏ ꜰɪʟʟ.
 
-<p align="center"><a href="https://railway.app/new/template?template=https://github.com/TEAM-DHIMAN/MUSIC-VC-RAIDRail&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://railway.app/new/template?template=https://github.com/Mahesh953-hub/MUSIC-VC-RAIDRail&envs=SESSION_NAME,BOT_TOKEN,GROUP_SUPPORT,UPDATES_CHANNEL,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=railway" width="220" height="38.45"/></a></p>
 
 
 <h2 align="center">
@@ -131,7 +131,7 @@
 
 
 ```console
-$ git clone https://github.com/TEAM-DHIMAN/MUSIC-VC-RAID
+$ git clone https://github.com/Mahesh953-hub/MUSIC-VC-RAID
 $ cd Dhiman-Music
 $ bash setup
 $ cp sample.env .env
